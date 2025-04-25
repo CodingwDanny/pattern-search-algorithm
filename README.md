@@ -20,7 +20,8 @@ Pasos del algoritmo
 ---
 
  Diagrama de flujo
-[Diagrama de flujo](Diagrama.png)
+![Diagrama de flujo](Diagrama.png)
+
 
 ---
 
